@@ -8,4 +8,5 @@ class ArrayTraversal{
             System.out.println("number in the index :"+ i + " : " + arr[i]);
         }
     }
+
 }
